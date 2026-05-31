@@ -10,8 +10,7 @@ features like type effectiveness modeling and radar chart visualization.
 
 ## Preview
 
-> Add a screenshot here: run `python -m streamlit run app.py`, take a screenshot of a battle,
-> and save it to `Screenshots/pokedueler_preview.png`
+![PokeDueler preview](Screenshots/pokedueler_preview.png)
 
 ```
 Screenshots/
