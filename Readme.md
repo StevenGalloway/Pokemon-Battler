@@ -10,6 +10,7 @@ features like type effectiveness modeling and radar chart visualization.
 
 ## Preview
 
+See the app in action — run `python -m streamlit run app.py`
 ![PokeDueler preview](Screenshots/pokedueler_preview.png)
 
 ```
