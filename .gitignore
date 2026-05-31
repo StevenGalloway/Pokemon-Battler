@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.streamlit/
+.env
+.pytest_cache/
+.coverage
+coverage.xml
+*.egg-info/
+dist/
+.mypy_cache/
+COMMIT_PLAN.md
